@@ -8,23 +8,23 @@
 
 ## Early Life
 
-Born in Lagos, Nigeria, Wisdom had a passion for engineering from a young age. Growing up, _he_ developed a love for _[computers]_ that would later shape _his_ career.
+Born in Lagos, Nigeria, Wisdom had a passion for engineering from a young age. Growing up, he developed a love for computers that would later shape his career.
 
 > "_To stop learning is to die - Some wise old guy_"
 
 ## Education
 
-_Your Name_ attends **_Minerva University_**, where _he_ is studying towards a degree in **Computer Science/Artificial Intelligence**:
+Wisdom attends **_Minerva University_**, where he is studying towards a degree in **Computer Science/Artificial Intelligence**:
 
-- **Majored in**: _Computer Science_
-- **Minored in**: _Philosophy and Cognitive Science_
+- **Majors in**: _Computer Science_
+- **Minors in**: _Philosophy and Cognitive Science_
 - **Extracurricular Activities**:
   - _Google Developer Students Club_
   - _Sports Club (Football)_
 
 ## Skills and Expertise
 
-_Wisdom_ specializes in:
+Wisdom specializes in:
 
 - **Programming Languages**: _Python, JavaScript, HTML/CSS_
 - **Tools & Technologies**: _FastAPI,Data Analysis Libraries, React_
@@ -32,7 +32,7 @@ _Wisdom_ specializes in:
 
 ## Hobbies and Interests
 
-Outside of work, _Wisdom_ enjoys:
+Outside of work, Wisdom enjoys:
 
 - **Playing Chess**
 - **Reading Novels and Short stories** 
@@ -42,6 +42,6 @@ Outside of work, _Wisdom_ enjoys:
 Feel free to connect with me via:
 
 - **Email**: [wisdom@uni.minerva.edu](mailto:wisdom@uni.minerva.edu)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/wisdomifode)
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/wisdomifode)
 
 

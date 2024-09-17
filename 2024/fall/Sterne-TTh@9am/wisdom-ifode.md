@@ -16,7 +16,7 @@ Born in Lagos, Nigeria, Wisdom had a passion for engineering from a young age. G
 
 Wisdom attends **_Minerva University_**, where he is studying towards a degree in **Computer Science/Artificial Intelligence**:
 
-- **Majors in**: _Computer Science_
+- **Major in**: _Computer Science_
 - **Minors in**: _Philosophy and Cognitive Science_
 - **Extracurricular Activities**:
   - _Google Developer Students Club_

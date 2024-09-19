@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanban Board</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        header {
+            background-color: #4a90e2;
+            color: white;
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        main {
+            display: flex;
+            flex-grow: 1;
+            padding: 1rem;
+            overflow-x: auto;
+        }
+        .column {
+            background-color: #f4f5f7;
+            border-radius: 5px;
+            min-width: 250px;
+            margin-right: 1rem;
+            padding: 1rem;
+        }
+        .task {
+            background-color: white;
+            border-radius: 3px;
+            padding: 0.5rem;
+            margin-bottom: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+        }
+        footer {
+            background-color: #f4f5f7;
+            padding: 1rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kanban Board</h1>
+        <button>Logout</button>
+    </header>
+    <main>
+        <div class="column">
+            <h2>Backlog</h2>
+            <div class="task">Design new feature</div>
+            <div class="task">Update documentation</div>
+        </div>
+        <div class="column">
+            <h2>To Do</h2>
+            <div class="task">Implement login system</div>
+            <div class="task">Create database schema</div>
+        </div>
+        <div class="column">
+            <h2>In Progress</h2>
+            <div class="task">Develop API endpoints</div>
+            <div class="task">Write unit tests</div>
+        </div>
+        <div class="column">
+            <h2>Review</h2>
+            <div class="task">Code review: User authentication</div>
+            <div class="task">Test new UI components</div>
+        </div>
+        <div class="column">
+            <h2>Done</h2>
+            <div class="task">Set up project repository</div>
+            <div class="task">Create wireframes</div>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Kanban Board. All rights reserved.</p>
+    </footer>
+</body>
+</html>
